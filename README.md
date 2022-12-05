@@ -1,7 +1,7 @@
 # portfolio
 
 # Git Hub Link: 
-https://github.com/chickengong/portfolio
+https://chickengong.github.io/portfolio/
 
 # Respitory Link:
 https://chickengong.github.io/portfolio/
