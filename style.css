@@ -473,6 +473,7 @@ body{
 }
 .about-para p{
     font-weight: 300;
+    font-size: 1.2em;
     padding: 0.5rem;
     opacity: 0.8;
 }
