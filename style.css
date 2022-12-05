@@ -471,7 +471,7 @@ body{
     border-color: #dd2d4a;
     color: #fff;
 }
-.about-para p{
+.about-para {
     font-weight: 300;
     font-size: 1.2em;
     padding: 0.5rem;
