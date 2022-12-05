@@ -469,8 +469,10 @@ body{
     color: #fff;
 }
 .about-para p {
-    font-size: 7rem;
-    text-transform: uppercase;
+    font-size: 3rem;
+    opacity: 0.8;
+    padding: 0.5rem;
+    font-weight: 300;
 }
 
 @media screen and (min-width: 992px){
