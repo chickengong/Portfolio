@@ -430,9 +430,6 @@ body{
     font-weight: 600;
     font-size: 3rem;
 }
-.about-right p {
-  font-size: 14px;
-}
 
 .about-btns{
     display: flex;
@@ -471,9 +468,9 @@ body{
     border-color: #dd2d4a;
     color: #fff;
 }
-.about-para {
+.about-para p {
     font-weight: 300;
-    font-size: 1.2em;
+    font-size: 3rem;
     padding: 0.5rem;
     opacity: 0.8;
 }
