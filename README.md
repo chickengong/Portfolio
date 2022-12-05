@@ -1,5 +1,6 @@
 # portfolio
 
-# Git Hub Link:
+# Git Hub Link: 
+https://github.com/chickengong/portfolio
 
 #Respitory Link:
