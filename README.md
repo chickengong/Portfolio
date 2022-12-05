@@ -4,4 +4,4 @@
 https://github.com/chickengong/portfolio
 
 # Respitory Link:
-Ellecox1.github.io/portfolio
+https://chickengong.github.io/portfolio/
